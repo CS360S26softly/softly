@@ -3,7 +3,7 @@ package com.example.softly;
 public abstract class Shape {
     private int x;
     private int y;
-    private String color = "indigo";
+    private String color = "red";
 
     public int getX() {
         return x;
@@ -13,5 +13,4 @@ public abstract class Shape {
         return y;
     }
 
-    String color = "Red";
 }
