@@ -11,4 +11,6 @@ public abstract class Shape {
     public int getY() {
         return y;
     }
+
+    String color = "Red";
 }
